@@ -3,7 +3,7 @@
 // Darren Fok
 // October 23rd, 2020
 // APCS, Chris Robinson
-// This program computes hours, minutes, seconds and milliseconds.
+// This program computes hours, minutes, seconds and milliseconds from milliseconds.
 
 
 public class Lab03v100

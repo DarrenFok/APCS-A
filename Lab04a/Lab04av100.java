@@ -54,7 +54,7 @@ public class Lab04av100
       System.out.println("Annual Rate:       " + annualRate +"%");
       System.out.println("Number of Years:   " + numYears);
       System.out.println("Monthly Payment:   $" + monthlyRounded);
-      System.out.println("Total Payment:     $" + totalRounded);
+      System.out.println("Total Payments:    $" + totalRounded);
       System.out.println("Total Interest:    $" + totalInterestRounded);
 
 	}

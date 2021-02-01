@@ -3,8 +3,9 @@
 // Darren Fok
 // January 31st, 2021
 // APCS, Mr. Robinson
-// This program displays 100 random lines with color in quadrant one, 100 random suqares filled with color in quadrant two, 100 random random circles with color in quadrant three and an open-topped box with red, blue, green
-// and yellow on its sides.
+// This program displays 100 random lines with color in quadrant one, 100 random suqares filled with color in quadrant two, 100 random random circles with color in
+// quadrant three and an open-topped box with red, blue, green and yellow on its sides.
+
 
 import java.awt.*;
 import java.applet.*;

@@ -13,7 +13,7 @@ public class Lab13v100
 {
 	public static void main(String[] args)
 	{
-		MagpieLab12b maggie = new MagpieLab12b();
+		MagpieLab13 maggie = new MagpieLab13();
 
 		System.out.println (maggie.getGreeting());
 		Scanner in = new Scanner (System.in);
